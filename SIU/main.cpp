@@ -1,11 +1,6 @@
 #include <iostream>
+#include "student.cpp"
 using namespace std;
-
-class student{
-    public:
-        string name = "";
-
-};
 
 int main(){
     student stu;
