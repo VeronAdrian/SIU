@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    student stu;
-    cout << stu.name;
+    student stu("123456","Max","Hopkings");
+    stu.to_string();
 }

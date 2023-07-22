@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689992257 source:d:\it\proyectos\siu\siu\main.cpp
+	<iostream>
+	"student.cpp"
+
+1689992333 d:\it\proyectos\siu\siu\student.cpp
+	<iostream>
+
