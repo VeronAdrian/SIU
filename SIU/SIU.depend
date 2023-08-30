@@ -1,8 +1,15 @@
 # depslib dependency file v1.0
-1689992257 source:d:\it\proyectos\siu\siu\main.cpp
+1693404386 source:d:\it\proyectos\siu\siu\main.cpp
 	<iostream>
 	"student.cpp"
 
-1689992333 d:\it\proyectos\siu\siu\student.cpp
+1689992976 d:\it\proyectos\siu\siu\student.cpp
 	<iostream>
+
+1689992976 source:d:\it\proyectos\siu\siu\student.cpp
+	<iostream>
+
+1693404415 source:d:\it\proyectos\siu\siu\teacher.cpp
+	<iostream>
+	<list>
 

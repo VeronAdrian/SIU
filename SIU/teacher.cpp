@@ -1,22 +1,19 @@
 #include <iostream>
+#include <list>
 using namespace std;
 
-class student{
+class teacher{
     private:
         string _legacy;
         string _name;
         string _surname;
-        bool _isStuding;
+        list<string> _assignments;
 
     public:
-        student(string legacy, string name, string surname){
+        teacher(string legacy, string name, string surname, string assignment){
             _legacy = legacy;
             _name = name;
             _surname = surname;
-            _isStuding = false;
         }
 
-        void to_string(){
-            cout << "Student: "+_name+" "+_surname+" Legacy: "+_legacy;
-        }
 };

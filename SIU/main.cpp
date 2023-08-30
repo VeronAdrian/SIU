@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(){
-    student stu("123456","Max","Hopkings");
-    stu.to_string();
+    int input;
+    cout << "Welcome to SIU, please select your profile: 1) Teacher 2)Student 3)Create a user 0)Administrator \n";
+    cin >> input;
+    cout << input;
 }
